@@ -1,0 +1,4 @@
+		Conventions:
+
+	* Maths:
+- Les vecteurs utilisés sont tous sous forme de vecteur colone (matrice de taille de (1, n))

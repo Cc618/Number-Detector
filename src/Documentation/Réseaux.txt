@@ -1,0 +1,10 @@
+		Architectures des différents réseaux:
+
+	- CcNet1:
+> Premier réseau avec bonnne efficacité (92.56% au MNIST)
+
+	- CcNet2:
+> Réseau avec une couche de dropout (90% au MNIST)
+
+	- CcNet3:
+> Réseau assez profond (3 principales couches), couches de dropout (96% au MNIST)

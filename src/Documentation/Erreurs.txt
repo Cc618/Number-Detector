@@ -1,0 +1,1 @@
+Si le fichier ne se lit pas (la demo se ferme) c'est qu'il y a des caractères unicode dans l'emplacement de l'image (des accents par exemple).

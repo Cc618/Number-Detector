@@ -1,0 +1,25 @@
+////////////// Obligatoire //////////////
+
+
+
+////////////// Plus tard //////////////
+- Continuer gestionnaire entraînement ?
+
+
+
+////////////// Fin //////////////
+- Supprimer les TODO (matrice.h)
+- Supprimer OMatrice
+
+- Faire release
+- Faire fiche technique
+
+
+
+
+////////////// Trucs facultatifs //////////////
+- Autre erreurs (faire couche erreur)
+
+- Essayer bien utiliser size_t et unsigned int
+
+

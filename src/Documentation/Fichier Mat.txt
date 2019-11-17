@@ -1,0 +1,15 @@
+		J'ai dû créer un nouveau type de fichier pour sauvegarder des matrices, le fichier .mat.
+
+	C'est un fichier binaire, structure:
+
+Adresse		Type		Description		Exemple		
+0x00		uint32		Lignes			0x00000002 = 2U
+0x04		uint32		Colones			0x00000003 = 3U
+0x08		float32		Pixel[0, 0]		1.F
+...
+0x??		float32		Pixel[0, c]		1.F
+...
+0x??		float32		Pixel[l, c]		1.F
+
+
+Les données sont lues lignes par lignes.
